@@ -1,4 +1,5 @@
 # pyautogui (automatizar processos desk)
+# pyperclip (Copiar strings)
 # selenium (automatizar processos WEB)
 # pandas (ler base de dados (read SQL, .cvs, etc... ))
 # openpyxl (integrar python com excel)
